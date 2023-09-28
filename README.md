@@ -4,6 +4,8 @@ Student ID:u3245926
 
 Data: zomato
 
+Using Jupiter to run the code
+
 Describes the code
 
 File: DS-Assignment1-PartA-u3245926.ipynb
